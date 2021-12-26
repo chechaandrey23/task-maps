@@ -1,0 +1,6 @@
+[submodule "client"]
+	path = client
+	url = https://github.com/chechaandrey23/task-maps-client
+[submodule "server"]
+	path = server
+	url = https://github.com/chechaandrey23/task-maps-server
